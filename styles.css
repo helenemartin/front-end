@@ -47,4 +47,24 @@ p {
 	text-align:center;
 	font-weight: bold;
 }
+.charity-carousel {
+	background-color: #f2f3f5;
+	border: 1px black;
+}
+
+#slider .carousel-item {
+  height: 500px;
+}
+
+.carousel-caption {
+  font-size: 18px;
+}
+
+.carousel-item img {
+ 	margin-left: 10%;
+}
+
+
+
+
 
